@@ -1,0 +1,60 @@
+/** adjusting logo size**/
+.logo {
+  width:180px;
+  height: 50px;
+
+}
+body{
+  background-color:turquoise;
+}
+
+.img-1{
+  margin-top:20px;
+  width:100%;
+  height:100%;
+  filter: brightness(50%);
+
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li a {
+color:black;
+}
+.fa-facebook,
+.fa-twitter,
+.fa-linkedin,
+.fa-pinterest {
+width:30px;
+color:black;
+
+}
+
+.backward{
+padding-left: 10px;
+}
+html{
+height=100%;
+box-sizing: content-box;
+}
+footer{
+background-color: navy;
+padding-top:10px;
+height:100%;
+}
+
+/* bottom botter */
+.Map-me{
+  -webkit-box-shadow: -4px 36px 143px 41px rgba(0,0,0,0.75);
+-moz-box-shadow: -4px 36px 143px 41px rgba(0,0,0,0.75);
+box-shadow: -4px 36px 143px 41px rgba(0,0,0,0.75);
+
+}
+.nav-link:hover{
+
+
+  letter-spacing:2px;
+}
